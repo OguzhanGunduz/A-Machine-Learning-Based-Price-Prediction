@@ -9,4 +9,7 @@ various machine learning regression methods. Four regression models have been se
 this study: Random Forest Regression, Linear Regression, K-Nearest Neighbor Regression, and
 Gradient Boosting Regression. Based on the results obtained, the Random Forest Regression
 model has been identified as the most accurate model for predicting prices in this dataset
+
 Keywords: Machine learning, Regression model, R-squared.
+
+You can review the report and presentation we created above.
